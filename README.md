@@ -1,3 +1,5 @@
+# WEBSITE: https://kyle-raymundo.github.io/dnd-campaign-WOF/
+
 # Whispers of the Forgotten - Player Hub
 Welcome to the Whispers of the Forgotten (WOF) Player Hub — a website built for my Dungeons & Dragons campaign.
 This site allows players to review characters, session recaps, and important magical items throughout the unfolding story.
