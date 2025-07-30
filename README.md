@@ -2,7 +2,7 @@
 
 # Whispers of the Forgotten - Player Hub
 Welcome to the Whispers of the Forgotten (WOF) Player Hub — a website built for my Dungeons & Dragons campaign.
-This site allows players to review characters, session recaps, and important magical items throughout the unfolding story.
+This site allows players to review characters, session recaps, and important magical items throughout sessions. I wanted to make like a really early 2000s website hence the arcahic/simple code lol.
 
 ## Features
 Home page introducing the world of Whispers of the Forgotten
